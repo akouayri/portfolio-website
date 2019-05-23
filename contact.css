@@ -1,0 +1,55 @@
+body {
+    background: url(../images/background2.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    font-family: 'Arial, Helvetica', sans-serif
+}
+form {
+	margin-top: 45px;
+	transition: all 4s ease-in-out;
+
+}
+h1{
+	font-size: 40px;
+	font-style: oblique;
+}
+.contact-form{
+	width: 400px;
+	height: 470px;
+	background-color:rgba(0,0,0,0.6);
+	padding: 40px;
+	color:white;
+	margin: 0 auto;
+	margin-top: 80px;
+	text-align: center;
+	border-radius: 5%;
+
+}
+.form-control{
+
+	width: 300px;
+	background: transparent;
+	border:none;
+	border-bottom: 2px solid white;
+	color:white;
+	font-size:18px;
+	margin-bottom:30px;
+
+}
+
+form .submit {
+	background: orange ;
+	border-radius: 5%;
+	border-color: transparent;
+	width: 400px
+	margin-bottom:40px;
+	font-size: 20px;
+	font-weight: bold;
+	letter-spacing: 2px;
+
+}
+.submit:hover {
+cursor: pointer;
+}
