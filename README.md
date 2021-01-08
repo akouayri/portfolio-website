@@ -1,3 +1,3 @@
 # portfolio-website
 
-This a basic Website Portfoliagit
+This a basic Website Portfolio
